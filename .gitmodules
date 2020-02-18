@@ -1,0 +1,3 @@
+[submodule "goland"]
+	path = goland
+	url = https://github.com/golden-corp/openplatform-sdk-go.git
